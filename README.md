@@ -51,6 +51,7 @@ High level list of items completed.
 Features that you would like to add at some point in the future.
 
 - [ ] Feature c
+- [ ] Feature d - @landlord in Nav and post tag. As a roomate, I can alert the houshold when a problem that effects everyone has been relayed to the landlord so that multiple roomates don't contact the landlord. Comments can be added to the post for followup and communication recieved back keeping everyone aware of an upcoming landlord action to rememedy a problem. 
 
 ## Deployment
 
